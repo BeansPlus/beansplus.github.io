@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://beansplus.github.io/</loc>
+    <loc>https://beans.plus/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://beansplus.github.io/categories/</loc>
+    <loc>https://beans.plus/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://beansplus.github.io/tags/</loc>
+    <loc>https://beans.plus/tags/</loc>
     <priority>0</priority>
   </url>
   
